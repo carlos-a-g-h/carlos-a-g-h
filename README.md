@@ -1,4 +1,4 @@
-# Hello there
+Hello there
 
 Not much to see around here, check out my gists
 
